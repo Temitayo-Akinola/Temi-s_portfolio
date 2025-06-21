@@ -1,2 +1,2 @@
-# Temi-s_portfolio
+# Temi's_portfolio
 Analytic's portfolio
